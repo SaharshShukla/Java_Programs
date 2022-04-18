@@ -12,5 +12,7 @@ One Dimensional Array Question
 10. find last index of any array and give it index position
 11. cumulative sum of an array
 12. kth smallest and largest element in an array
-13. print duplicate element with the frequency
-14. print unique element 
+13. print duplicate element with the frequency (not done)
+14. print unique element (not done)
+15. Rotate array kth times
+16. 
