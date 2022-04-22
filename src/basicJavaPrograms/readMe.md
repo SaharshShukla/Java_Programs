@@ -15,7 +15,7 @@ Basic Java Question
 13) is number is armstrong number
 14) power of a number
 15) print sum of n natural number till n
-16) factorial of number
+16) factorial of number (Recurisve way and iterative way)
 17) convert decimal to binary
 18) convert binary to decimal
 19) sum of digit
